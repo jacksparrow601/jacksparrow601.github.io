@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>h2sl</title><link>https://baize.github.io/</link><description>Recent content on h2sl created by</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 May 2025 22:02:34 +0800</lastBuildDate><atom:link href="https://baize.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用hugo搭建个人博客</title><link>https://baize.github.io/blog/first/</link><pubDate>Sun, 11 May 2025 22:02:34 +0800</pubDate><guid>https://baize.github.io/blog/first/</guid><description>&lt;p>如何使用hugo快速搭建个人博客的静态页面&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>h2sl</title><link>https://jacksparrow601.github.io/</link><description>Recent content on h2sl created by</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 May 2025 22:02:34 +0800</lastBuildDate><atom:link href="https://jacksparrow601.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用hugo搭建个人博客</title><link>https://jacksparrow601.github.io/blog/first/</link><pubDate>Sun, 11 May 2025 22:02:34 +0800</pubDate><guid>https://jacksparrow601.github.io/blog/first/</guid><description>&lt;p>如何使用hugo快速搭建个人博客的静态页面&lt;/p>
 &lt;h2 id="hugo简介">hugo简介&lt;/h2>
 &lt;p>🚀 超快构建速度：号称“世界上最快的静态网站生成器”，通常几百页内容也能在几秒钟内构建完成。&lt;br>
 📁 基于目录的内容组织：支持按照文件夹结构管理内容，易于维护。&lt;br>
@@ -103,6 +103,8 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e"># favicon = &amp;#34;images/polarbear.png&amp;#34;&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#a6e22e">params&lt;/span>.&lt;span style="color:#a6e22e">options&lt;/span>]
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">showDarkMode&lt;/span> = &lt;span style="color:#66d9ef">true&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="参考资料">参考资料&lt;/h2>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="问题记录">问题记录&lt;/h2>
+&lt;p>&lt;a href="https://stackoverflow.com/questions/76023778/action-failed-with-the-process-usr-bin-git-failed-with-exit-code-128">github Action work flow 持续报错,Action failed with &amp;ldquo;The process &amp;lsquo;/usr/bin/git&amp;rsquo; failed with exit code 128&lt;/a>&lt;/p>
+&lt;h2 id="参考资料">参考资料&lt;/h2>
 &lt;p>&lt;a href="https://gohugo.io/getting-started/quick-start/">hugo官方doc&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://baize.wiki/blog/how-to-build-blog/#ladder-%E4%B8%BB%E9%A2%98">up主白泽hugo教程&lt;/a>&lt;/p></description></item></channel></rss>
