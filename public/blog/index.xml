@@ -118,7 +118,9 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &lt;span style=&#34;color:#75715e&#34;&gt;# favicon = &amp;#34;images/polarbear.png&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;params&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;options&lt;/span&gt;]
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;showDarkMode&lt;/span&gt; = &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;参考资料&#34;&gt;参考资料&lt;/h2&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;问题记录&#34;&gt;问题记录&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/questions/76023778/action-failed-with-the-process-usr-bin-git-failed-with-exit-code-128&#34;&gt;github Action work flow 持续报错,Action failed with &amp;ldquo;The process &amp;lsquo;/usr/bin/git&amp;rsquo; failed with exit code 128&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;参考资料&#34;&gt;参考资料&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;hugo官方doc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://baize.wiki/blog/how-to-build-blog/#ladder-%E4%B8%BB%E9%A2%98&#34;&gt;up主白泽hugo教程&lt;/a&gt;&lt;/p&gt;</description>
     </item>

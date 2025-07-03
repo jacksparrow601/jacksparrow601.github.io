@@ -149,6 +149,9 @@ theme = 'hugo-theme-ladder'
   showDarkMode = true
 ```
 
+## 问题记录
+[github Action work flow 持续报错,Action failed with "The process '/usr/bin/git' failed with exit code 128](https://stackoverflow.com/questions/76023778/action-failed-with-the-process-usr-bin-git-failed-with-exit-code-128)
+
 
 ## 参考资料
 [hugo官方doc](https://gohugo.io/getting-started/quick-start/)
